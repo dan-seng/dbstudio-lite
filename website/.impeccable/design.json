@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-05T12:26:42.125157+00:00",
+  "title": "Design System: DBStudio Lite website",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15.00% 0.00283 128.49)",
+          "oklch(26.43% 0.00283 128.49)",
+          "oklch(37.86% 0.00283 128.49)",
+          "oklch(49.29% 0.00283 128.49)",
+          "oklch(60.71% 0.00283 128.49)",
+          "oklch(72.14% 0.00283 128.49)",
+          "oklch(83.57% 0.00283 128.49)",
+          "oklch(95.00% 0.00283 128.49)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15.00% 0.01937 167.17)",
+          "oklch(26.43% 0.01937 167.17)",
+          "oklch(37.86% 0.01937 167.17)",
+          "oklch(49.29% 0.01937 167.17)",
+          "oklch(60.71% 0.01937 167.17)",
+          "oklch(72.14% 0.01937 167.17)",
+          "oklch(83.57% 0.01937 167.17)",
+          "oklch(95.00% 0.01937 167.17)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15.00% 0.01655 161.97)",
+          "oklch(26.43% 0.01655 161.97)",
+          "oklch(37.86% 0.01655 161.97)",
+          "oklch(49.29% 0.01655 161.97)",
+          "oklch(60.71% 0.01655 161.97)",
+          "oklch(72.14% 0.01655 161.97)",
+          "oklch(83.57% 0.01655 161.97)",
+          "oklch(95.00% 0.01655 161.97)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "oklch(15.00% 0.01031 145.49)",
+          "oklch(26.43% 0.01031 145.49)",
+          "oklch(37.86% 0.01031 145.49)",
+          "oklch(49.29% 0.01031 145.49)",
+          "oklch(60.71% 0.01031 145.49)",
+          "oklch(72.14% 0.01031 145.49)",
+          "oklch(83.57% 0.01031 145.49)",
+          "oklch(95.00% 0.01031 145.49)"
+        ]
+      },
+      "accent": {
+        "role": "primary",
+        "displayName": "Accent",
+        "tonalRamp": [
+          "oklch(15.00% 0.06765 162.06)",
+          "oklch(26.43% 0.06765 162.06)",
+          "oklch(37.86% 0.06765 162.06)",
+          "oklch(49.29% 0.06765 162.06)",
+          "oklch(60.71% 0.06765 162.06)",
+          "oklch(72.14% 0.06765 162.06)",
+          "oklch(83.57% 0.06765 162.06)",
+          "oklch(95.00% 0.06765 162.06)"
+        ]
+      },
+      "accent-hover": {
+        "role": "primary",
+        "displayName": "Accent Hover",
+        "tonalRamp": [
+          "oklch(15.00% 0.05803 161.68)",
+          "oklch(26.43% 0.05803 161.68)",
+          "oklch(37.86% 0.05803 161.68)",
+          "oklch(49.29% 0.05803 161.68)",
+          "oklch(60.71% 0.05803 161.68)",
+          "oklch(72.14% 0.05803 161.68)",
+          "oklch(83.57% 0.05803 161.68)",
+          "oklch(95.00% 0.05803 161.68)"
+        ]
+      },
+      "mint": {
+        "role": "primary",
+        "displayName": "Mint",
+        "tonalRamp": [
+          "oklch(15.00% 0.01408 138.71)",
+          "oklch(26.43% 0.01408 138.71)",
+          "oklch(37.86% 0.01408 138.71)",
+          "oklch(49.29% 0.01408 138.71)",
+          "oklch(60.71% 0.01408 138.71)",
+          "oklch(72.14% 0.01408 138.71)",
+          "oklch(83.57% 0.01408 138.71)",
+          "oklch(95.00% 0.01408 138.71)"
+        ]
+      },
+      "preview": {
+        "role": "primary",
+        "displayName": "Preview",
+        "tonalRamp": [
+          "oklch(15.00% 0.02843 133.74)",
+          "oklch(26.43% 0.02843 133.74)",
+          "oklch(37.86% 0.02843 133.74)",
+          "oklch(49.29% 0.02843 133.74)",
+          "oklch(60.71% 0.02843 133.74)",
+          "oklch(72.14% 0.02843 133.74)",
+          "oklch(83.57% 0.02843 133.74)",
+          "oklch(95.00% 0.02843 133.74)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "tonalRamp": [
+          "oklch(15.00% 0.00000 89.88)",
+          "oklch(26.43% 0.00000 89.88)",
+          "oklch(37.86% 0.00000 89.88)",
+          "oklch(49.29% 0.00000 89.88)",
+          "oklch(60.71% 0.00000 89.88)",
+          "oklch(72.14% 0.00000 89.88)",
+          "oklch(83.57% 0.00000 89.88)",
+          "oklch(95.00% 0.00000 89.88)"
+        ]
+      },
+      "download-muted": {
+        "role": "neutral",
+        "displayName": "Download Muted",
+        "tonalRamp": [
+          "oklch(15.00% 0.03751 146.48)",
+          "oklch(26.43% 0.03751 146.48)",
+          "oklch(37.86% 0.03751 146.48)",
+          "oklch(49.29% 0.03751 146.48)",
+          "oklch(60.71% 0.03751 146.48)",
+          "oklch(72.14% 0.03751 146.48)",
+          "oklch(83.57% 0.03751 146.48)",
+          "oklch(95.00% 0.03751 146.48)"
+        ]
+      },
+      "download-line": {
+        "role": "neutral",
+        "displayName": "Download Line",
+        "tonalRamp": [
+          "oklch(15.00% 0.03503 153.83)",
+          "oklch(26.43% 0.03503 153.83)",
+          "oklch(37.86% 0.03503 153.83)",
+          "oklch(49.29% 0.03503 153.83)",
+          "oklch(60.71% 0.03503 153.83)",
+          "oklch(72.14% 0.03503 153.83)",
+          "oklch(83.57% 0.03503 153.83)",
+          "oklch(95.00% 0.03503 153.83)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero headline."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Feature section heading."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Supporting feature prose."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Main filled actions."
+      }
+    },
+    "shadows": [
+      {
+        "name": "application-preview",
+        "value": "0 18px 40px -20px #25372180",
+        "purpose": "Separates the application screenshot from its sage framing."
+      }
+    ],
+    "motion": [
+      {
+        "name": "control-transition",
+        "value": "160ms ease",
+        "purpose": "Color, background, opacity, and button hover feedback."
+      },
+      {
+        "name": "workspace-arrive",
+        "value": "650ms cubic-bezier(.16,1,.3,1)",
+        "purpose": "Application preview enters from translateY(14px) on desktop; disabled for reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-desktop",
+        "value": "1050px"
+      },
+      {
+        "name": "preview-animation-min",
+        "value": "900px"
+      },
+      {
+        "name": "mobile",
+        "value": "760px"
+      },
+      {
+        "name": "narrow-mobile",
+        "value": "380px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Filled download action.",
+      "html": "<a class=\"ds-button ds-primary\" href=\"#download\">Download</a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:50px;padding:0 23px;font:600 14px Arial,Helvetica,sans-serif;border:0;border-radius:7px;text-decoration:none;transition:background 160ms ease,transform 160ms ease}.ds-button:hover{transform:translateY(-1px)}.ds-button:focus-visible{outline:2px solid var(--accent,#285b44);outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-button{transition:none}}.ds-primary{background:var(--accent,#285b44);color:var(--white,#ffffff)}.ds-primary:hover{background:var(--accent-hover,#1b4532)}"
+    },
+    {
+      "name": "Ink button",
+      "kind": "button",
+      "refersTo": "button-ink",
+      "description": "Filled download action.",
+      "html": "<a class=\"ds-button ds-ink\" href=\"#download\">Download</a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:50px;padding:0 23px;font:600 14px Arial,Helvetica,sans-serif;border:0;border-radius:7px;text-decoration:none;transition:background 160ms ease,transform 160ms ease}.ds-button:hover{transform:translateY(-1px)}.ds-button:focus-visible{outline:2px solid var(--accent,#285b44);outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-button{transition:none}}.ds-ink{background:var(--ink,#17231e);color:var(--white,#ffffff)}.ds-ink:hover{background:var(--accent,#285b44)}"
+    },
+    {
+      "name": "Selected preview tab",
+      "kind": "custom",
+      "refersTo": "preview-tab-selected",
+      "description": "Selected workspace screenshot tab.",
+      "html": "<button class=\"ds-tab\" role=\"tab\" aria-selected=\"true\">Explore data</button>",
+      "css": ".ds-tab{border:0;background:var(--paper,#fafbf9);color:var(--ink,#17231e);padding:11px 15px;min-height:42px;border-radius:6px;font:12px Arial,Helvetica,sans-serif;cursor:pointer}.ds-tab:focus-visible{outline:2px solid var(--accent,#285b44);outline-offset:5px}"
+    },
+    {
+      "name": "Navigation link",
+      "kind": "nav",
+      "description": "Desktop anchor navigation.",
+      "html": "<nav aria-label=\"Example navigation\"><a class=\"ds-nav-link\" href=\"#preview\">The workspace</a></nav>",
+      "css": ".ds-nav-link{font:13px Arial,Helvetica,sans-serif;color:var(--ink,#17231e);text-decoration:none;transition:color 160ms ease}.ds-nav-link:hover{color:var(--accent,#285b44)}.ds-nav-link:focus-visible{outline:2px solid var(--accent,#285b44);outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-nav-link{transition:none}}"
+    },
+    {
+      "name": "Platform download",
+      "kind": "custom",
+      "description": "A platform link on the dark download surface.",
+      "html": "<a class=\"ds-platform\" href=\"#download\"><div><h3>Linux</h3><p>x86_64</p></div><svg width=\"21\" height=\"21\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M12 3v12m-5-5 5 5 5-5M5 17v4h14v-4\"/></svg></a>",
+      "css": ".ds-platform{display:flex;gap:14px;align-items:center;justify-content:space-between;padding:27px 23px;min-height:115px;background:#1d3026;color:#f4f7f0;text-decoration:none;font-family:Arial,Helvetica,sans-serif;border-block:1px solid #4c6152;transition:background 160ms ease}.ds-platform h3{font-size:19px;font-weight:500;margin:0 0 6px}.ds-platform p{font-size:11px;color:#b6ccb7;margin:0}.ds-platform:hover{background:#2c4435}.ds-platform:focus-visible{outline:2px solid #d0e0bf;outline-offset:-4px}@media(prefers-reduced-motion:reduce){.ds-platform{transition:none}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "A clearer workspace",
+    "overview": "The implemented website places the real desktop application in a quiet editorial setting. Paper surfaces, forest text, and sage framing give the screenshots room to explain the product. This records the website implementation, not the desktop application's theme.\n\nThe layout alternates broad product evidence with compact supporting details. Familiar system typography keeps the page lightweight; selective color and generous spacing establish hierarchy.",
+    "keyCharacteristics": [
+      "Paper surfaces and forest accents.",
+      "Real application screenshots with user-controlled views.",
+      "Asymmetric desktop composition that stacks on mobile.",
+      "Direct platform downloads and visible keyboard focus."
+    ],
+    "rules": [
+      {
+        "name": "The One Family Rule",
+        "body": "Use the existing system sans-serif stack for website prose and controls; reserve monospace for code and database types.",
+        "section": "typography"
+      },
+      {
+        "name": "The Product Depth Rule",
+        "body": "Keep the existing ambient shadow associated with the application preview; supporting sections rely on tone and dividers.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preserve real product screenshots and full-size access.",
+      "Do keep platform choice available beside the detected download action.",
+      "Do preserve keyboard tab controls, visible focus, and reduced-motion behavior.",
+      "Do use the existing system font stack and compact supporting labels."
+    ],
+    "donts": [
+      "Don't replace the screenshot preview with invented product UI.",
+      "Don't make hover the only way to discover full-size previews on touch devices.",
+      "Don't promote local container dimensions into a universal component scale."
+    ]
+  }
+}
